@@ -8,8 +8,14 @@ assignees: ''
 
 ---
 
-_A panel is a section in the TaxonPage.  This issue outlines and proposes a single new panel, its role, target audience, scope,
-  and brief design [TODO: link to example].  You can preview how the information you provide will look by clicking 'Preview' above._
+_Instructions_
+  
+_A panel is a section in the taxon page.  This issue outlines and proposes a single new panel, its role, target audience, scope,
+  and brief design [TODO: link to example]._
+  
+* Need help filling this out?  Once you have your panel details in hand, contact us and we'll help step you through filling out this issue.
+* While filling out the template you can delete instructions in the issue that you've finished reading.  Instructions are italicized text, these are wrapped in underscores (_).
+* You can preview how the information you provide will look by clicking 'Preview' above.
   
 ## Summary (required):
 To understand what you want, as a way to organize and prioritize what we build, please provide the following: 
