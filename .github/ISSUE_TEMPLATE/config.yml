@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.community/
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: Community events 
+    url: https://speciesfilegroup.org/events.html
+    about: See, and participate in weekly events to answer questions, help develop your ideas, and more. 
+  - name: Chat with developers 
+    url: https://gitter.im/SpeciesFileGroup/taxonworks 
+    about: Contact the developer team directly in a Gitter chatroom. 

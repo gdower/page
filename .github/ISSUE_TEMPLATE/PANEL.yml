@@ -1,4 +1,4 @@
-name: New Panel 
+name: New taxon page panel 
 description:  
 title: "[Panel]: "
 labels: ["enhancement"]
@@ -11,7 +11,8 @@ body:
         * Need help filling this out?  Once you have your panel details in hand, contact us and we'll help step you through filling out this issue.
   - type: markdown
     attributes:
-      value: | '# Summary'
+      value: |
+        '# Summary'
         _To understand what you want, as a way to organize and prioritize what we build, please provide a summary in the following form._
   - type: input 
     id: summary_x
@@ -39,10 +40,12 @@ body:
       required: true 
   - type: markdown
     attributes:
-      value: | '# Details'
+      value: |
+        '# Details'
   - type: markdown
     attributes:
-      value: | '## Interface'
+      value: |
+        '## Interface'
   - type: input 
     id: interface_title
     attributes:
@@ -93,7 +96,8 @@ body:
       required: false 
 - type: markdown
     attributes:
-      value: | '## Technical details'
+      value: | 
+        '## Technical details'
         _Largely completed by developers._
 - type: textarea 
     id: technical_metadata 
